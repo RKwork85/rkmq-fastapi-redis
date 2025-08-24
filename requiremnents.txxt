@@ -1,0 +1,21 @@
+# python -v 3.13.6
+
+fastapi==0.116.1
+httpx==0.28.1
+jose==1.0.0
+matplotlib==3.10.5
+moviepy==2.2.1
+numpy==2.3.2
+pandas==2.3.1
+passlib==1.7.4
+pydantic==2.11.7
+pytest==8.4.1
+python-dotenv==1.1.1
+PyYAML==6.0.2
+Requests==2.32.4
+scenedetect==0.6.6
+SQLAlchemy==2.0.43
+tenacity==9.1.2
+uvicorn==0.35.0
+xlsxwriter==3.2.5
+python-multipart==0.0.20
